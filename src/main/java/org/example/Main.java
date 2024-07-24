@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-myLinkedList list = new myLinkedList();
+MyLinkedList list = new MyLinkedList();
 
         list.add(5);
         list.add(10);

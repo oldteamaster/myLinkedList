@@ -1,6 +1,6 @@
 package org.example;
 
-public class myLinkedList {
+public class MyLinkedList {
     private Node nods;
     private int size;
 
